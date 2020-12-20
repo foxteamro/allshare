@@ -1,0 +1,2 @@
+# allshare
+Django apps
